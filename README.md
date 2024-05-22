@@ -1,5 +1,5 @@
 <!--generate from https://rahuldkjain.github.io/gh-profile-readme-generator/-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=17&pause=1000&color=4EB2FF&vCenter=true&random=false&width=435&lines=%E4%BD%A0%E5%A5%BD%F0%9F%91%8B%EF%BC%8C%E6%88%91%E6%98%AF%E4%B8%80%E5%90%8D%E9%AB%98%E4%B8%AD%E7%94%9F%EF%BC%8C%E4%BE%86%E8%87%AA%E5%8F%B0%E7%81%A3%E3%80%82;Hi%F0%9F%91%8B%2C+I'm+a+high+school+student+from+Taiwan.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&duration=5004&pause=1000&color=4EB2FF&vCenter=true&random=false&width=600&height=100&lines=%E4%BD%A0%E5%A5%BD%F0%9F%91%8B%EF%BC%8C%E6%88%91%E6%98%AF%E4%B8%80%E5%90%8D%E9%AB%98%E4%B8%AD%E7%94%9F%EF%BC%8C%E4%BE%86%E8%87%AA%E5%8F%B0%E7%81%A3%E3%80%82;Hi%F0%9F%91%8B%2C+I'm+a+high+school+student+from+Taiwan.)](https://git.io/typing-svg)
 
 <p align="left"> <a href="https://twitter.com/@eflin69896772" target="blank"><img src="https://img.shields.io/twitter/follow/eflin69896772?logo=twitter&style=for-the-badge" alt="@eflin69896772" /></a> </p>
 
