@@ -1,7 +1,8 @@
+<!--generate from https://rahuldkjain.github.io/gh-profile-readme-generator/-->
 <h1 align="center">Hi 👋, I'm EFLin</h1>
 <h3 align="center">A high school student from Taiwan.</h3>
 
-<p align="left"> <a href="https://twitter.com/@eflin69896772" target="blank"><img src="https://img.shields.io/twitter/follow/@eflin69896772?logo=twitter&style=for-the-badge" alt="@eflin69896772" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@eflin69896772" target="blank"><img src="https://img.shields.io/twitter/follow/eflin69896772?logo=twitter&style=for-the-badge" alt="@eflin69896772" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/EF-Lin](https://github.com/EF-Lin)
 
