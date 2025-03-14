@@ -10,5 +10,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ef-lin&show_icons=true&locale=en&layout=compact" alt="ef-lin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ef-lin&show_icons=true&locale=en" alt="ef-lin" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ef-lin&" alt="ef-lin" /></p>
